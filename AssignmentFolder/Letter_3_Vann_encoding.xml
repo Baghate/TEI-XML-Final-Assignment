@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="mygeneratedodd%20(Copy).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="mygeneratedodd%20(Copy).rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>TEI encoding for scholarly letters between Raymon Aron and his colleagues, Letter 3 by Richard T Vann
+            </title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Mathieu Taybi</authority>
+                <availability> <p>restricted access</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p> 
+                    <idno>Archival reference : NAF 28060 (125) XV</idno> 
+                    <origPlace>BNF Richelieu, Département des Manuscrits</origPlace>
+                    <settlement>Paris</settlement>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <head>
+                <lang>English</lang>
+                <title>
+                    <affiliation>
+                        History and Theory
+                    </affiliation>
+                    <persName>
+                        Editor : George H Nadel, Executive Editor : Richard T Vann, Associate Editors : Louis O Mink, Richard
+                        Buel, Assistant Editor : Jane K Parker,
+                        Consultant Editor : W H Dray, Editorial Comitee : Raymond Aron, Isaiah Berlin, Fernand Braudel, E H Gombrich,
+                        Sidney Hook, Maurice Mandelbaums, A D Momigliano, John Passmore, W H Waslh, C Vann Woodward
+                    </persName>
+                </title>
+                <address>
+                    <addrLine>
+                        Wesleyan Station, Middletown Connecticut 06457 USA
+                    </addrLine>
+                    <addrLine>
+                        EHESS 54 boulevard Raspail 75270 Paris, Cedex 06 France
+                    </addrLine>
+                </address>
+                <date>
+                    October 20, 1978
+                </date>
+            </head>
+        </front>
+        <body>
+            <opener>
+                <salute>Dear Professor Aron</salute>
+            </opener>
+            <div>
+                <div>
+                    <p>
+                        <lb/><hi>History and Theory</hi>, in collaboration with <placeName>Wesleyan's Center for the Humanities</placeName>
+                        is planning a small conference for <date>next March</date>, to discuss issues raised in and by <persName>Hayden White</persName>
+                        's book <title>Metahistory: The historical Imagination of Nineteenth century Europe.</title> Although one sees this book
+                        increasingly cited in articles and other books, we believe that is has not received the thorough critical examination which it 
+                        deserves. It is highly original in its application of <term>literary history</term>to the <term>history of historiography</term>
+                        , and radical in its reformulation of <term>historical relativism</term> and other classic issues.
+                    </p>
+                    <p>
+                        <lb/>The conference will be held in <placeName>Middletown</placeName>on <date>March 16th and 17th, 1979</date>
+                        Main papare will be given by <persName>Maurice Mandelbaum</persName> (Philosophy, <placeName>John Hopkins and Dartmouth</placeName>
+                        , <persName>Hans Kellner</persName>(History, <placeName>Michigan State</placeName>), <persName>Paul Hernadi</persName>(Comparative litterature
+                        <placeName>Iowa</placeName>), and <persName>Edward Said</persName> (English, <placeName>Columbia</placeName>). There will be crtics
+                        for each paper, and we plan to leave plenty of time for both formal and informal discussion. We plan to limit the conference to forty
+                        participants, from history, literary theory and philosophy.
+                    </p>
+                    <p>
+                        <lb/>We though that as a member of the Editorial Commitee you would like to know about the planning of this conference, and also
+                        to know that of course you are invited if you are interested, in participating. Since the budget for the conference is very low we can't
+                        offer to cover travel expanses, as we would like to do, but if you expect to be in the vicinity of <placeName>Middletown</placeName>
+                        <date>next March</date> in any case, by all means do let us know. We shall also be happy to send copies of the main papers,  at your
+                        request. Naturaly we hope that they will later be published in <hi>History and Theory</hi>
+                    </p>       
+                </div>
+            </div> 
+            <closer>
+                <signed>Sincerely yours, Richard T Vann
+                </signed>
+            </closer>
+            <postscript>
+                <p></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>    

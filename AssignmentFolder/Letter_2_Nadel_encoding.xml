@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="mygeneratedodd%20(Copy).rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="mygeneratedodd%20(Copy).rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt><title>TEI encoding for scholarly letters between Raymon Aron and his colleagues, Letter 2 by George H Nadel
+            </title>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Mathieu Taybi</authority>
+                <availability> <p>restricted access</p></availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p> 
+                    <idno>Archival reference : NAF 28060 (125) XV</idno> 
+                    <origPlace>BNF Richelieu, Département des Manuscrits</origPlace>
+                    <settlement>Paris</settlement>
+                </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <head>
+                <lang>English</lang>
+                <title>
+                    <affiliation>
+                        History and Theory
+                    </affiliation>
+                    <persName>
+                        Editor : George H Nadel, Executive Editor : Richard T Vann, Associate Editors : Louis O Mink, Richard
+                        Buel, Assistant Editor : Jane K Parker,
+                        Consultant Editor : W H Dray, Editorial Comitee : Raymond Aron, Isaiah Berlin, Fernand Braudel, E H Gombrich,
+                        Sidney Hook, Maurice Mandelbaums, A D Momigliano, John Passmore, W H Waslh, C Vann Woodward
+                        
+                    </persName>
+                </title>
+                <address>
+                    <addrLine>
+                        Wesleyan Station, Middletown Connecticut 06457 USA
+                    </addrLine>
+                </address>
+                <date>
+                    26th October 1971
+                </date>
+            </head>
+        </front>
+        <body>
+            <opener>
+                <salute>Dear Professor Aron</salute>
+            </opener>
+            <div>
+                <div>
+                    <p>
+                        <lb/>I am writing to you about tentative plans for assembling a small symposium to discuss <hi><term>Historicism</term></hi>
+                        We are at the moment concerned mainly with subject matter. No decisions have yet been made about date, site, nnumers, or foundation
+                        support. <date>Fall 1972</date> or <date>Spring 1973</date> are probable dates. I should greatly appreciate your help, answers,
+                        and comments -- including negative comments.
+                    </p>
+                    <p>
+                        <lb/>The overall objectives of the symposium would be any (or all) of the following: (1) To discuss the history of the impact
+                        of <term>historicism</term> on some of the established disciplines. (2) To learn where <term>historicism</term> stands today
+                        . (3) To attemps to reduce the variety of usages of the term <term>"historicism"</term> to some workable characterization and,
+                        as a service to scholarshop, publicize our findings in <hi>History and Theory.</hi>
+                    </p>
+                    <p>
+                        <lb/>It would help in planning to determine what kind or kinds of <term>"historicism"</term> the symposium should usefully
+                        confine itself. This need not be in contradiction to objective (3) ; it could be the first step towards it. For example,
+                        Professor<persName>Mandelbaum</persName> -- at length in his recent <title>History, Man and Reason</title> and more briefly in his 
+                        enclosed <title>Encyclopedia</title> article -- defines the term as the undestanding of phenomena through their place in a process 
+                        of <hi>development.</hi> As a <hi>methodological principle</hi>, rather than a <term><foreign>Weltanschauung</foreign></term>
+                        , he sees it to be relevant to such current topics of discussion as <persName>Piaget</persName>'s <term>developmentalism</term>, 
+                        <term>structuralism</term> and as a reevaluation of <term>Marxism</term> (regarding <term>orthodox Marxism</term>as <term>historicist</term>
+                        and <term>Marxian humanism</term>as <term>anti-historicist</term>). QUite differnt issues might be raised by other kinds of
+                        characterizations, e.g. by <persName>Popper</persName>'s linking of <term>historicism</term> to <term>"holism"</term>(involving
+                        i.a. the concepts of "laws") or by the identification of <term>historicism</term> with a concept of <term>"historicity"</term>of relevance to theology).
+                    </p>
+                    <p>
+                        <lb/><hi>Do you agree that our undertaking requires some prior narrowing down of the term, and if so, have you any wider-ranging
+                        associations of <term>"historicism</term>in mind that might usefully be played down or excluded?</hi>
+                    </p>
+                    <p>
+                        <lb/>Participating speakers and auditors would mostrly represent specific disciplines.These might include "history" (perhaps a 
+                        sruvey of the classic development of <term>historicism</term>), "historicim and art history", "historicim and philosophy", "historical
+                        theology", "historicim and economics", as wells as, perhaps, "historicism and science" and the more recent "historicism and black history".
+                    </p>
+                    <p>
+                        <lb/><hi>Would you be willing, in principle, to attend? Could you also let me know on what topic you may
+                        wish to read a paper (or shorter comment on some problem, book, or thinker)?</hi>
+                    </p>               
+                </div>
+            </div> 
+            <closer>
+                <signed>Sincerly George H Nadel,
+                    George H Nadel,
+                    Warnham Lodge Horsham Susses England
+                </signed>
+            </closer>
+            <postscript>
+                <p></p>
+            </postscript>
+        </body>
+    </text>
+</TEI>    
